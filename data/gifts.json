@@ -1,0 +1,52 @@
+[
+  {
+    "id": "g_msf3rqi9_etlfcy",
+    "recipient": "Louise",
+    "sender": "Sofiane",
+    "amount": 25,
+    "message": "hi",
+    "createdAt": "2026-08-04T20:20:41.073Z",
+    "redeemed": false
+  },
+  {
+    "id": "g_msf3rxy9_zvvd4p",
+    "recipient": "Louise",
+    "sender": "Sofiane",
+    "amount": 25,
+    "message": "With love — enjoy your surprise!",
+    "createdAt": "2026-08-04T20:20:50.721Z",
+    "redeemed": true,
+    "redeemedAt": "2026-08-04T20:29:16.679Z",
+    "payment": {
+      "sessionId": "sess_mock_1",
+      "paid": "paid"
+    }
+  },
+  {
+    "id": "g_msf4066r_x8v1d0",
+    "recipient": "BrowserTest2",
+    "sender": "You",
+    "amount": 7,
+    "message": "test2",
+    "createdAt": "2026-08-04T20:27:14.643Z",
+    "redeemed": false
+  },
+  {
+    "id": "g_msf40qa2_p9omks",
+    "recipient": "hgjkg",
+    "sender": "hgfkh",
+    "amount": 10,
+    "message": "hgfjgf",
+    "createdAt": "2026-08-04T20:27:40.682Z",
+    "redeemed": false
+  },
+  {
+    "id": "g_msf43fct_aobxuh",
+    "recipient": "ytyt",
+    "sender": "hfhgf",
+    "amount": 10,
+    "message": "ytry",
+    "createdAt": "2026-08-04T20:29:46.493Z",
+    "redeemed": false
+  }
+]

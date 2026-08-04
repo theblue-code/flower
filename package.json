@@ -1,0 +1,38 @@
+{
+  "name": "flower-gift",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Romantic Flower Heart — Next.js + Framer Motion + Tailwind",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "postcss.config.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/canvas-confetti": "^1.9.0",
+    "canvas-confetti": "^1.9.4",
+    "framer-motion": "^11.3.19",
+    "lucide-react": "^1.28.0",
+    "next": "^14.2.15",
+    "qrcode": "^1.5.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "stripe": "^12.18.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.12",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "autoprefixer": "^10.4.14",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.2.15",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.4.7",
+    "typescript": "^5.5.4"
+  }
+}
