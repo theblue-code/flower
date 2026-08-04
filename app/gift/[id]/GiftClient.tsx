@@ -3,6 +3,8 @@
 import React, { useEffect, useState } from 'react'
 import QRCode from 'qrcode'
 
+/* eslint-disable @next/next/no-img-element */
+
 type Props = { id: string }
 
 export default function GiftClient({ id }: Props) {
